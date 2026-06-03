@@ -74,9 +74,7 @@ The application is intended for software vendors, private communities, and digit
 
 **Step 2** — Launch the executable *(no installation required)*
 
-**Step 3** — Copy your generated verification key
-
-**Step 4** — Complete the verification process according to your administrator's instructions
+**Step 3** — Complete the verification process according to your administrator's instructions
 
 <br/>
 
@@ -84,7 +82,7 @@ The application is intended for software vendors, private communities, and digit
 
 Need help or want to report an issue?
 
-> 💙 **Discord:** `dev_tai`
+> 💙 **Discord:** `tai_dev`
 
 <br/>
 
