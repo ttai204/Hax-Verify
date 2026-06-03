@@ -1,0 +1,153 @@
+================================================================================
+                       HAXVIET SOFTWARE LICENSE AGREEMENT
+                              Version 1.0 — Year 2026
+================================================================================
+
+Copyright (c) 2026 HAXVIET. All Rights Reserved.
+
+This Software License Agreement ("Agreement") is a legal agreement between you
+("User", "Licensee", or "End User") and HAXVIET ("Licensor", "Author", "Owner")
+governing your use of HaxKey Verify and all associated files, binaries,
+documentation, and intellectual property (collectively, the "Software").
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU
+HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
+IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 1 — GRANT OF LICENSE
+────────────────────────────────────────────────────────────────────────────────
+
+Subject to the terms of this Agreement, HAXVIET grants the User a limited,
+non-exclusive, non-transferable, revocable license to:
+
+  1.1  Download and install one (1) copy of the Software on a personal device.
+  1.2  Use the Software solely for its intended purpose as described in the
+       official documentation.
+  1.3  Store a backup copy of the Software for personal archival purposes only.
+
+This license does not constitute a sale of the Software or any portion thereof.
+HAXVIET retains full ownership, title, and all intellectual property rights.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 2 — RESTRICTIONS
+────────────────────────────────────────────────────────────────────────────────
+
+The following actions are STRICTLY PROHIBITED without prior written consent
+from HAXVIET:
+
+  2.1  REDISTRIBUTION — Copying, distributing, uploading, or sharing the
+       Software or any portion thereof through any medium or channel.
+
+  2.2  MODIFICATION — Altering, adapting, translating, or creating derivative
+       works based on the Software or its components.
+
+  2.3  REVERSE ENGINEERING — Decompiling, disassembling, decrypting, or
+       otherwise attempting to derive the source code or internal logic of
+       the Software.
+
+  2.4  COMMERCIAL USE — Selling, sublicensing, renting, leasing, or using the
+       Software for commercial resale, redistribution, or profit-generating
+       activities of any kind.
+
+  2.5  REMOVAL OF NOTICES — Removing, altering, or obscuring any copyright,
+       trademark, or proprietary notices contained within the Software.
+
+  2.6  EXPOSURE OF INTERNALS — Publishing, disclosing, or exposing any internal
+       components, algorithms, keys, identifiers, or infrastructure of the
+       Software.
+
+  2.7  UNAUTHORIZED TRANSFER — Transferring, assigning, or sublicensing your
+       rights under this Agreement to any third party.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 3 — INTELLECTUAL PROPERTY
+────────────────────────────────────────────────────────────────────────────────
+
+The Software, including but not limited to its source code (whether obfuscated
+or not), object code, design, user interface, algorithms, concepts, and all
+accompanying documentation, constitutes the exclusive intellectual property of
+HAXVIET and is protected by applicable copyright, trade secret, and
+intellectual property laws.
+
+HAXVIET reserves all rights not expressly granted under this Agreement.
+No implied licenses are granted.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 4 — TERMINATION
+────────────────────────────────────────────────────────────────────────────────
+
+  4.1  This Agreement is effective upon your first use of the Software and
+       remains in force until terminated.
+
+  4.2  HAXVIET reserves the right to terminate this license immediately and
+       without notice if the User violates any term of this Agreement.
+
+  4.3  Upon termination, the User must immediately cease all use of the Software
+       and permanently delete all copies in their possession.
+
+  4.4  Sections 3, 5, 6, and 7 shall survive any termination of this Agreement.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 5 — DISCLAIMER OF WARRANTIES
+────────────────────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, HAXVIET
+EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+
+  — WARRANTIES OF MERCHANTABILITY
+  — FITNESS FOR A PARTICULAR PURPOSE
+  — TITLE AND NON-INFRINGEMENT
+  — ACCURACY, RELIABILITY, OR COMPLETENESS OF THE SOFTWARE
+  — THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED
+
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE RESTS
+WITH THE USER.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 6 — LIMITATION OF LIABILITY
+────────────────────────────────────────────────────────────────────────────────
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL HAXVIET,
+ITS AFFILIATES, CONTRIBUTORS, OR LICENSORS BE LIABLE FOR ANY:
+
+  — DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
+  — LOSS OF DATA, PROFITS, REVENUE, OR BUSINESS OPPORTUNITIES
+  — SYSTEM FAILURES, SECURITY BREACHES, OR DATA CORRUPTION
+  — ANY OTHER CLAIM ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY
+    TO USE THE SOFTWARE
+
+THIS LIMITATION APPLIES REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT,
+NEGLIGENCE, OR OTHERWISE), EVEN IF HAXVIET HAS BEEN ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 7 — GOVERNING LAW
+────────────────────────────────────────────────────────────────────────────────
+
+This Agreement shall be governed by and construed in accordance with applicable
+law. Any disputes arising under or in connection with this Agreement shall be
+subject to the exclusive jurisdiction of the competent courts or authorities
+designated by HAXVIET.
+
+────────────────────────────────────────────────────────────────────────────────
+  SECTION 8 — CONTACT & LICENSING INQUIRIES
+────────────────────────────────────────────────────────────────────────────────
+
+For licensing inquiries, commercial usage permissions, or support requests,
+please contact the author directly:
+
+  Discord  :  dev_tai
+  Project  :  github.com/haxviet/haxkey-verify
+
+HAXVIET will endeavor to respond to all inquiries within a reasonable timeframe.
+
+────────────────────────────────────────────────────────────────────────────────
+
+  © 2026 HAXVIET — All Rights Reserved.
+  Unauthorized use, reproduction, or distribution of this Software,
+  in whole or in part, is strictly prohibited and may result in
+  civil and criminal penalties under applicable law.
+
+================================================================================
