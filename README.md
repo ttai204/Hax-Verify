@@ -1,74 +1,101 @@
 <div align="center">
 
-# HaxKey Verify
+<img src="https://img.shields.io/badge/-HaxKey%20Verify-0a0e14?style=for-the-badge&logo=windows&logoColor=00e5ff" alt="HaxKey Verify" height="50"/>
 
-A lightweight hardware-based license verification utility designed for secure client identification and activation workflows.
+<br/>
+<br/>
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![Status](https://img.shields.io/badge/status-active-success)
+[![Version](https://img.shields.io/badge/version-1.0-00e5ff?style=flat-square&labelColor=0a0e14)](https://github.com)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-555?style=flat-square&labelColor=0a0e14&logo=windows&logoColor=white)](https://github.com)
+[![Status](https://img.shields.io/badge/status-active-39d98a?style=flat-square&labelColor=0a0e14)](https://github.com)
+[![License](https://img.shields.io/badge/license-Proprietary-f5a623?style=flat-square&labelColor=0a0e14)](https://github.com)
+
+<br/>
+
+**A lightweight hardware-based license verification utility**  
+Designed for secure client identification and activation workflows.
+
+<br/>
+
+[📥 Download Latest](#download) · [🚀 Getting Started](#getting-started) · [💬 Support](#support)
+
+---
 
 </div>
 
-## Overview
+## 📌 Overview
 
-HaxKey Verify generates a unique machine fingerprint and provides a consistent verification key for licensing and activation purposes.
+**HaxKey Verify** generates a unique machine fingerprint and provides a consistent verification key for licensing and activation purposes.
 
 The application is intended for software vendors, private communities, and digital product distribution systems that require device-based verification.
 
----
+<br/>
 
-## Features
+## ✨ Features
 
-- Hardware-based machine identification
-- Deterministic license key generation
-- Simple and lightweight user interface
-- Fast verification workflow
-- Windows 10 / 11 support
-- Minimal system resource usage
+| Feature | Description |
+|---|---|
+| 🔒 **Hardware-based ID** | Unique machine fingerprint tied to your physical hardware |
+| 🔑 **Deterministic Keys** | Consistent license key generated on every run |
+| 🖥️ **Simple UI** | Clean, minimal interface — no bloat |
+| ⚡ **Fast Workflow** | Instant verification, zero configuration needed |
+| 🪟 **Windows Support** | Fully compatible with Windows 10 and 11 |
+| 🪶 **Lightweight** | Minimal system resource usage, tiny footprint |
 
----
+<br/>
 
-## Download
+## 📥 Download
 
-The latest stable version is available in the Releases section.
+<div align="center">
 
-> Download the newest build from GitHub Releases.
+[![Download Latest](https://img.shields.io/badge/⬇%20Download%20Latest%20Release-00e5ff?style=for-the-badge&labelColor=0a0e14)](https://github.com/releases)
 
----
+</div>
 
-## System Requirements
+> The latest stable version is available in the **[Releases](https://github.com/releases)** section.  
+> Always grab the newest build for best compatibility.
 
-| Requirement | Version |
-|------------|---------|
-| Operating System | Windows 10 / 11 |
-| Internet Connection | Required |
-| RAM | 512 MB+ |
-| Disk Space | 20 MB+ |
+<br/>
 
----
+## 💻 System Requirements
 
-## Getting Started
+| Requirement | Minimum |
+|---|---|
+| **Operating System** | Windows 10 / 11 (64-bit) |
+| **Internet Connection** | Required |
+| **RAM** | 512 MB+ |
+| **Disk Space** | 20 MB+ |
 
-1. Download the latest release.
-2. Launch the executable.
-3. Copy your generated verification key.
-4. Complete the verification process according to your administrator's instructions.
+<br/>
 
----
+## 🚀 Getting Started
 
-## Support
+**Step 1** — Download the latest release from the [Releases page](https://github.com/releases)
+
+**Step 2** — Launch the executable *(no installation required)*
+
+**Step 3** — Copy your generated verification key
+
+**Step 4** — Complete the verification process according to your administrator's instructions
+
+<br/>
+
+## 💬 Support
 
 Need help or want to report an issue?
 
-Discord: **dev_tai**
+> 💙 **Discord:** `dev_tai`
 
----
+<br/>
 
-## License
+## 📄 License
 
-This project is distributed under a proprietary license.
-
+This project is distributed under a **proprietary license**.  
 All rights reserved.
 
-© HAXVIET
+<div align="center">
+<br/>
+
+© 2024 **HAXVIET** — All rights reserved.
+
+</div>
