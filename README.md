@@ -96,6 +96,6 @@ All rights reserved.
 <div align="center">
 <br/>
 
-© 2024 **HAXVIET** — All rights reserved.
+© 2026 **TAI-DEV** — All rights reserved.
 
 </div>
