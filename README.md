@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-[![Version](https://img.shields.io/badge/version-1.0-00e5ff?style=flat-square&labelColor=0a0e14)](https://github.com)
+[![Version](https://img.shields.io/badge/version-1.1-00e5ff?style=flat-square&labelColor=0a0e14)](https://github.com)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-555?style=flat-square&labelColor=0a0e14&logo=windows&logoColor=white)](https://github.com)
 [![Status](https://img.shields.io/badge/status-active-39d98a?style=flat-square&labelColor=0a0e14)](https://github.com)
 [![License](https://img.shields.io/badge/license-Proprietary-f5a623?style=flat-square&labelColor=0a0e14)](https://github.com)
