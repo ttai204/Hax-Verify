@@ -48,7 +48,7 @@ The application is intended for software vendors, private communities, and digit
 
 <div align="center">
 
-[![Download Latest](https://img.shields.io/badge/⬇%20Download%20Latest%20Release-00e5ff?style=for-the-badge&labelColor=0a0e14)](https://github.com/ttaidev/Hax-Verify/blob/main/HaxKeyVerify.exe)
+[![Download Latest](https://img.shields.io/badge/⬇%20Download%20Latest%20Release-00e5ff?style=for-the-badge&labelColor=0a0e14)](https://github.com/ttaidev/Hax-Verify/raw/main/HaxKeyVerify.exe)
 
 </div>
 
