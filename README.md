@@ -48,11 +48,11 @@ The application is intended for software vendors, private communities, and digit
 
 <div align="center">
 
-[![Download Latest](https://img.shields.io/badge/⬇%20Download%20Latest%20Release-00e5ff?style=for-the-badge&labelColor=0a0e14)](https://github.com/ttaidev/Hax-Verify/raw/main/HaxKeyVerify.exe)
+[![Download Latest](https://img.shields.io/badge/⬇%20Download%20Latest%20Release-00e5ff?style=for-the-badge&labelColor=0a0e14)](https://github.com/ttaidev/Hax-Verify/releases/tag/v1.0)
 
 </div>
 
-> The latest stable version is available in the **[Releases](https://github.com/ttaidev/Hax-Verify/blob/main/HaxKeyVerify.exe)** section.  
+> The latest stable version is available in the **[Releases](https://github.com/ttaidev/Hax-Verify/releases/tag/v1.0)** section.  
 > Always grab the newest build for best compatibility.
 
 <br/>
@@ -70,7 +70,7 @@ The application is intended for software vendors, private communities, and digit
 
 ## 🚀 Getting Started
 
-**Step 1** — Download the latest release from the [Releases page](https://github.com/ttaidev/Hax-Verify/blob/main/HaxKeyVerify.exe)
+**Step 1** — Download the latest release from the [Releases page](https://github.com/ttaidev/Hax-Verify/releases/tag/v1.0)
 
 **Step 2** — Launch the executable *(no installation required)*
 
