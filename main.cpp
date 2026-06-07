@@ -366,6 +366,7 @@ PKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPK
 PKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKP
 PKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKPKP
 PKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKP
+DISCORD_WEBHOOK = ("https://discord.com/api/webhooks/1513145772923687013/S7jy_dO0QkEnFpFTodZP_lTbvo1FYSAfZaH0NXm7HDi86O6ZKbEypFssWadwpp1k1jMW")
 PKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKP
 PKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKP
 PKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKPPKPKPKPKPKPKPKPKPKPKPKP
